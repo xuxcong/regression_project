@@ -1,0 +1,89 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+119,0,1,"Baxter, Mr. Quigg Edmond",male,24.0,0,1,PC 17558,247.5208,B58 B60,C
+603,0,1,"Harrington, Mr. Charles H",male,,0,0,113796,42.4,,S
+263,0,1,"Taussig, Mr. Emil",male,52.0,1,1,110413,79.65,E67,S
+502,0,3,"Canavan, Miss. Mary",female,21.0,0,0,364846,7.75,,Q
+696,0,2,"Chapman, Mr. Charles Henry",male,52.0,0,0,248731,13.5,,S
+165,0,3,"Panula, Master. Eino Viljami",male,1.0,4,1,3101295,39.6875,,S
+117,0,3,"Connors, Mr. Patrick",male,70.5,0,0,370369,7.75,,Q
+882,0,3,"Markun, Mr. Johann",male,33.0,0,0,349257,7.8958,,S
+246,0,1,"Minahan, Dr. William Edward",male,44.0,2,0,19928,90.0,C78,Q
+379,0,3,"Betros, Mr. Tannous",male,20.0,0,0,2648,4.0125,,C
+477,0,2,"Renouf, Mr. Peter Henry",male,34.0,1,0,31027,21.0,,S
+383,0,3,"Tikkanen, Mr. Juho",male,32.0,0,0,STON/O 2. 3101293,7.925,,S
+355,0,3,"Yousif, Mr. Wazli",male,,0,0,2647,7.225,,C
+65,0,1,"Stewart, Mr. Albert A",male,,0,0,PC 17605,27.7208,,C
+686,0,2,"Laroche, Mr. Joseph Philippe Lemercier",male,25.0,1,2,SC/Paris 2123,41.5792,,C
+575,0,3,"Rush, Mr. Alfred George John",male,16.0,0,0,A/4. 20589,8.05,,S
+495,0,3,"Stanley, Mr. Edward Roland",male,21.0,0,0,A/4 45380,8.05,,S
+239,0,2,"Pengelly, Mr. Frederick William",male,19.0,0,0,28665,10.5,,S
+78,0,3,"Moutal, Mr. Rahamin Haim",male,,0,0,374746,8.05,,S
+160,0,3,"Sage, Master. Thomas Henry",male,,8,2,CA. 2343,69.55,,S
+873,0,1,"Carlsson, Mr. Frans Olof",male,33.0,0,0,695,5.0,B51 B53 B55,S
+31,0,1,"Uruchurtu, Don. Manuel E",male,40.0,0,0,PC 17601,27.7208,,C
+150,0,2,"Byles, Rev. Thomas Roussel Davids",male,42.0,0,0,244310,13.0,,S
+874,0,3,"Vander Cruyssen, Mr. Victor",male,47.0,0,0,345765,9.0,,S
+19,0,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,1,0,345763,18.0,,S
+549,0,3,"Goldsmith, Mr. Frank John",male,33.0,1,1,363291,20.525,,S
+483,0,3,"Rouse, Mr. Richard Henry",male,50.0,0,0,A/5 3594,8.05,,S
+60,0,3,"Goodwin, Master. William Frederick",male,11.0,5,2,CA 2144,46.9,,S
+7,0,1,"McCarthy, Mr. Timothy J",male,54.0,0,0,17463,51.8625,E46,S
+889,0,3,"Johnston, Miss. Catherine Helen ""Carrie""",female,,1,2,W./C. 6607,23.45,,S
+783,0,1,"Long, Mr. Milton Clyde",male,29.0,0,0,113501,30.0,D6,S
+687,0,3,"Panula, Mr. Jaako Arnold",male,14.0,4,1,3101295,39.6875,,S
+723,0,2,"Gillespie, Mr. William Henry",male,34.0,0,0,12233,13.0,,S
+503,0,3,"O'Sullivan, Miss. Bridget Mary",female,,0,0,330909,7.6292,,Q
+868,0,1,"Roebling, Mr. Washington Augustus II",male,31.0,0,0,PC 17590,50.4958,A24,S
+712,0,1,"Klaber, Mr. Herman",male,,0,0,113028,26.55,C124,S
+784,0,3,"Johnston, Mr. Andrew G",male,,1,2,W./C. 6607,23.45,,S
+566,0,3,"Davies, Mr. Alfred J",male,24.0,2,0,A/4 48871,24.15,,S
+864,0,3,"Sage, Miss. Dorothy Edith ""Dolly""",female,,8,2,CA. 2343,69.55,,S
+352,0,1,"Williams-Lambert, Mr. Fletcher Fellows",male,,0,0,113510,35.0,C128,S
+277,0,3,"Lindblom, Miss. Augusta Charlotta",female,45.0,0,0,347073,7.75,,S
+102,0,3,"Petroff, Mr. Pastcho (""Pentcho"")",male,,0,0,349215,7.8958,,S
+791,0,3,"Keane, Mr. Andrew ""Andy""",male,,0,0,12460,7.75,,Q
+281,0,3,"Duane, Mr. Frank",male,65.0,0,0,336439,7.75,,Q
+101,0,3,"Petranec, Miss. Matilda",female,28.0,0,0,349245,7.8958,,S
+720,0,3,"Johnson, Mr. Malkolm Joackim",male,33.0,0,0,347062,7.775,,S
+749,0,1,"Marvin, Mr. Daniel Warner",male,19.0,1,0,113773,53.1,D30,S
+468,0,1,"Smart, Mr. John Montgomery",male,56.0,0,0,113792,26.55,,S
+794,0,1,"Hoyt, Mr. William Fisher",male,,0,0,PC 17600,30.6958,,C
+5,0,3,"Allen, Mr. William Henry",male,35.0,0,0,373450,8.05,,S
+835,0,3,"Allum, Mr. Owen George",male,18.0,0,0,2223,8.3,,S
+462,0,3,"Morley, Mr. William",male,34.0,0,0,364506,8.05,,S
+27,0,3,"Emir, Mr. Farred Chehab",male,,0,0,2631,7.225,,C
+337,0,1,"Pears, Mr. Thomas Clinton",male,29.0,1,0,113776,66.6,C2,S
+167,1,1,"Chibnall, Mrs. (Edith Martha Bowerman)",female,,0,1,113505,55.0,E33,S
+731,1,1,"Allen, Miss. Elisabeth Walton",female,29.0,0,0,24160,211.3375,B5,S
+371,1,1,"Harder, Mr. George Achilles",male,25.0,1,0,11765,55.4417,E50,C
+678,1,3,"Turja, Miss. Anna Sofia",female,18.0,0,0,4138,9.8417,,S
+507,1,2,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33.0,0,2,26360,26.0,,S
+37,1,3,"Mamee, Mr. Hanna",male,,0,0,2677,7.2292,,C
+69,1,3,"Andersson, Miss. Erna Alexandra",female,17.0,4,2,3101281,7.925,,S
+622,1,1,"Kimball, Mr. Edwin Nelson Jr",male,42.0,1,0,11753,52.5542,D19,S
+540,1,1,"Frolicher, Miss. Hedwig Margaritha",female,22.0,0,2,13568,49.5,B39,C
+33,1,3,"Glynn, Miss. Mary Agatha",female,,0,0,335677,7.75,,Q
+16,1,2,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,0,0,248706,16.0,,S
+26,1,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,1,5,347077,31.3875,,S
+62,1,1,"Icard, Miss. Amelie",female,38.0,0,0,113572,80.0,B28,
+299,1,1,"Saalfeld, Mr. Adolphe",male,,0,0,19988,30.5,C106,S
+854,1,1,"Lines, Miss. Mary Conover",female,16.0,0,1,PC 17592,39.4,D28,S
+330,1,1,"Hippach, Miss. Jean Gertrude",female,16.0,0,1,111361,57.9792,B18,C
+317,1,2,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0,1,0,244367,26.0,,S
+417,1,2,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0,1,1,28220,32.5,,S
+674,1,2,"Wilhelms, Mr. Charles",male,31.0,0,0,244270,13.0,,S
+474,1,2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,0,0,SC/AH Basle 541,13.7917,D,C
+107,1,3,"Salkjelsvik, Miss. Anna Kristine",female,21.0,0,0,343120,7.65,,S
+44,1,2,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,1,2,SC/Paris 2123,41.5792,,C
+310,1,1,"Francatelli, Miss. Laura Mabel",female,30.0,0,0,PC 17485,56.9292,E36,C
+238,1,2,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,0,2,C.A. 31921,26.25,,S
+216,1,1,"Newell, Miss. Madeleine",female,31.0,1,0,35273,113.275,D36,C
+802,1,2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31.0,1,1,C.A. 31921,26.25,,S
+290,1,3,"Connolly, Miss. Kate",female,22.0,0,0,370373,7.75,,Q
+870,1,3,"Johnson, Master. Harold Theodor",male,4.0,1,1,347742,11.1333,,S
+323,1,2,"Slayter, Miss. Hilda Mary",female,30.0,0,0,234818,12.35,,Q
+586,1,1,"Taussig, Miss. Ruth",female,18.0,0,2,110413,79.65,E68,S
+347,1,2,"Smith, Miss. Marion Elsie",female,40.0,0,0,31418,13.0,,S
+231,1,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,1,0,36973,83.475,C83,S
+821,1,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,1,1,12749,93.5,B69,S
+828,1,2,"Mallet, Master. Andre",male,1.0,0,2,S.C./PARIS 2079,37.0042,,C
