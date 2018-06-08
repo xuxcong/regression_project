@@ -7,8 +7,9 @@ Welcome to Regression2018's documentation!
 ==========================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+    :maxdepth: 1
+
+    logs/log_index
 
 This is for final project in the course *Multi-Variables Statistical Analysis* (多元统计分析) by Prof. Huang (黄志洪), in SYSU (中山大学).
 

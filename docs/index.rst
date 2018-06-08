@@ -7,7 +7,7 @@ Welcome to Regression2018's documentation!
 ==========================================
 
 .. toctree::
-   :maxdepth: 1
+    :maxdepth: 1
 
     logs/log_index
 
