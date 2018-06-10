@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Research Logs &mdash; Regression2018  documentation</title>
+  <title>Sun 10 Jun 2018 &mdash; Regression2018  documentation</title>
   
 
   
@@ -29,8 +29,7 @@
   <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Fri 9 Jun 2018" href="Jun9.html" />
-    <link rel="prev" title="Welcome to Regression2018’s documentation!" href="../index.html" /> 
+    <link rel="prev" title="Fri 9 Jun 2018" href="Jun9.html" /> 
 
   
   <script src="../_static/js/modernizr.min.js"></script>
@@ -80,9 +79,14 @@
             
             
               <ul class="current">
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Research Logs</a><ul>
+<li class="toctree-l1 current"><a class="reference internal" href="log_index.html">Research Logs</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="Jun9.html">Fri 9 Jun 2018</a></li>
-<li class="toctree-l2"><a class="reference internal" href="Jun10.html">Sun 10 Jun 2018</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Sun 10 Jun 2018</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#exploration">Exploration</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#experiment">Experiment</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#future-work">Future Work</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -130,13 +134,15 @@
     
       <li><a href="../index.html">Docs</a> &raquo;</li>
         
-      <li>Research Logs</li>
+          <li><a href="log_index.html">Research Logs</a> &raquo;</li>
+        
+      <li>Sun 10 Jun 2018</li>
     
     
       <li class="wy-breadcrumbs-aside">
         
             
-            <a href="../_sources/logs/log_index.rst.txt" rel="nofollow"> View page source</a>
+            <a href="../_sources/logs/Jun10.rst.txt" rel="nofollow"> View page source</a>
           
         
       </li>
@@ -149,13 +155,34 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="research-logs">
-<h1>Research Logs<a class="headerlink" href="#research-logs" title="Permalink to this headline">¶</a></h1>
-<div class="toctree-wrapper compound">
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="Jun9.html">Fri 9 Jun 2018</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Jun10.html">Sun 10 Jun 2018</a></li>
+  <div class="section" id="sun-10-jun-2018">
+<h1>Sun 10 Jun 2018<a class="headerlink" href="#sun-10-jun-2018" title="Permalink to this headline">¶</a></h1>
+<ul class="simple">
+<li>Working Directory: <em>Research</em></li>
+<li>Updated Script: <em>script01.py</em>, <em>script02.py</em></li>
 </ul>
+<div class="section" id="exploration">
+<h2>Exploration<a class="headerlink" href="#exploration" title="Permalink to this headline">¶</a></h2>
+<p>Note: Exploration is in <em>script01.py</em>. Just run it in your shell.</p>
+<p>For each gender, each pclass, we plot the survival ratio for people of different age range, namely 0~10, 10~20, 20~30, 30~40, 40~50, 50~60, 60~70, 70~80. The plot is shown below:</p>
+<img alt="../_images/together.png" src="../_images/together.png" />
+<p>The first row shows survival distribution across different age range of males from different pclass. The second row shows woman’s.</p>
+<p>As can be seen, woman from first and middle class have high survive ratio that near 1.</p>
+<p>We may use this survive distribution information to guess other people’s destiny.</p>
+</div>
+<div class="section" id="experiment">
+<h2>Experiment<a class="headerlink" href="#experiment" title="Permalink to this headline">¶</a></h2>
+<p>Note: Experiment is in <em>script02.py</em>. Just run it under your shell.</p>
+<p>In training stage, we compute the survival distribution of different sexes, different pclasses, across different age range, as mentioned in Exploration step. And then use this ratio as probability, we guess others’ destinies in predicting stage.</p>
+<p>The cross validation result is:</p>
+<ul class="simple">
+<li>correct rate: 73%</li>
+</ul>
+<p>May be a little low.</p>
+</div>
+<div class="section" id="future-work">
+<h2>Future Work<a class="headerlink" href="#future-work" title="Permalink to this headline">¶</a></h2>
+<p>We need to try more general model with great predictive power.</p>
 </div>
 </div>
 
@@ -167,10 +194,8 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="Jun9.html" class="btn btn-neutral float-right" title="Fri 9 Jun 2018" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
-      
-        <a href="../index.html" class="btn btn-neutral" title="Welcome to Regression2018’s documentation!" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="Jun9.html" class="btn btn-neutral" title="Fri 9 Jun 2018" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
