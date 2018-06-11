@@ -2,13 +2,15 @@
 
 This is for final project in the course *Multi-Variables Statistical Analysis* (多元统计分析) by Prof. Huang (黄志洪), in SYSU (中山大学).
 
+You can check this [documentation](https://regression2018.readthedocs.io/en/latest/) for more informations.
+
 Team mates:
 
 - Xu Xiao Cong (许晓淙)
 - Zheng Le Wen (郑乐文)
 - Qin An Qi (秦安琪)
 - Yin Qian (殷倩)
-- Pudding ()
+- Ding Yi Hao (丁一昊)
 
 We are all undergraduate students in SYSU, major in applied math and statistics.
 
