@@ -32,11 +32,15 @@ Model Selecting
 We only tested ``SVC``, ``NuSVC``, ``LinearSVC``, ``BernoulliNB``, ``GaussianNB`` against cross validation set, and the whole train-test suite. The scripts is in *Research/script04.py*.
 
 The cross validation results is as follow (we only show correct rate):
-.. image:: correct_rates.png
+
+.. image:: ../../Research/correct_rates.png
+
 As can be seen, ``SVC`` and ``NuSVC`` models achieve the best cross validation scores of 82%. While the naive bayes models achieve roughly 78%~79% scores.
 
 Then we gather the predictions of these models, together with XiaoCong's neural network model's, YiHao's GLM model's, on main test data. And plot their correlation matrix as heatmap, as shown below:
-.. image:: heat_map3.png
+
+.. image:: ../../Research/heat_map3.png
+
 as can be seen, ``SVC`` and ``NuSVC`` is highly correlated, while naive bayes and neural network is relatively less correlated with other models. This may indicate that they can be incorporate into our ultimate fused model. And we may only need one of ``SVC`` and ``NuSVC`` models, to save computing resources.
 
 *Note*: the model correlation visualization procedure is coded in *DataProcessor/correlation.py*. It load in prediction file in the form of *modelname_predict.csv* under *Data/* folder, and then compute and display their correlation matrix (with only the lower triangle matrix is shown, as correlation matrix is symmetric).
