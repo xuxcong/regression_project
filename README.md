@@ -2,6 +2,8 @@
 
 This is for final project in the course *Multi-Variables Statistical Analysis* (多元统计分析) by Prof. Huang (黄志洪), in SYSU (中山大学).
 
+You can check this [documentation](https://regression2018.readthedocs.io/en/latest/) for more informations.
+
 Team mates:
 
 - Xu Xiao Cong (许晓淙)
